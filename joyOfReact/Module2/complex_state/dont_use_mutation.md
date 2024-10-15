@@ -1,4 +1,4 @@
-### Tricky Business (경고)
+### Tricky Business
 
 #### 절대 React 상태를 변이하지 마세요 (비록 그것이 작동하는 것처럼 보여도)
 
